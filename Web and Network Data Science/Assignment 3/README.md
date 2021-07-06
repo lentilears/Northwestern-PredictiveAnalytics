@@ -8,11 +8,6 @@ The UiPath software (Community edition) was installed and used to develop an RPA
 
 Main program: Resides within the ‘BikeshareData’ project folder, Main.xaml (main program that calls a UiPath robot that launches Chrome browser (with Google Chrome extensions enabled), that navigates to the system data sharing portal for Divvy Bikeshare (https://www.divvybikes.com/system-data) and proceeds to download data sources comprises rider/station information. The results of the web scraping resulted in downloading 9 zip archive files containing the ridership data for program from 2013 to 2017, shown in the screenshot below.
 
-#### Output folders and files:
-BikeshareData/
-  --> Main.xaml: UiPath main program name to crawl Divvy Bike data share site
-  --> project.json
-
 #### Conclusions
 Ride share archive files (zip files) from the Chicago-based Divvy Bike Share Program describing rider and bike station usage data files were successfully downloaded to my PC Desktop, using a UiPath RPA robot designed to navigate using a Chrome browser to the data portal and download data directories.
  
