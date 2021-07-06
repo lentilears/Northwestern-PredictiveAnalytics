@@ -1,0 +1,16 @@
+{
+  "name": "BikeshareData",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Core.Activities": "18.1.6603.13899"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.1.13",
+  "projectVersion": "1.0.6626.28029",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
