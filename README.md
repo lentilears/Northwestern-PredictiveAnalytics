@@ -1,4 +1,4 @@
-# Northwestern-PredictiveAnalytics
+# Northwestern Predictive Analytics
 Comprises code (e.g. in R, Python and SAS) and project deliverables (e.g. reports) for coding courses in the MS for Predictive Analytics/Data Science at Northwestern University.
 
 ### Introduction to Statistical Analysis MSPA-401 (R-based)
