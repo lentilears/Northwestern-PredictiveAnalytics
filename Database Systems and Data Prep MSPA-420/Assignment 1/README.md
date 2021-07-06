@@ -1,7 +1,6 @@
 ### Assignment 1 Deliverables
-Analysis of airline, airports, and air route data. Provide the following in a pdf file.
-
-Your variable names/labels for each data set.
+Analysis of airline, airports, and air route data. 
+Provide the following in a pdf file. Your variable names/labels for each data set.
 
 Your Python code for:
 i.    Reading your variable name text files into Python
