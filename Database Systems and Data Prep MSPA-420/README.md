@@ -1,4 +1,4 @@
-# Learning Goals
+### Learning Goals
 1. Articulate analytics as a core strategy using examples of successful predictive modeling/data mining applications in various industries.
 2. Formulate and manage plans to address business issues with analytics.
 3. Define key terms, concepts and issues in data management and database management systems with respect to predictive modeling
