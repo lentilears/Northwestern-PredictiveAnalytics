@@ -1,11 +1,11 @@
 # Northwestern-PredictiveAnalytics
 Comprises code (e.g. in R, Python and SAS) and project deliverables (e.g. reports) for coding courses in the MS for Predictive Analytics/Data Science at Northwestern University.
 
-# Introduction to Statistical Analysis MSPA401 (R-based)
+## Introduction to Statistical Analysis MSPA-401 (R-based)
 Introduces fundamentals of conducting statistical analyses. This includes interpreting and evaluating statistical information. Topics covered include descriptive statistics, including central tendency, dispersion, and data display; probability; binomial and normal distributions; inference, including confidence intervals and hypothesis testing; correlation; bivariate regression; contingency tables and chi-square.
 
-# Regression and Multivariate Analysis MSPA410 (SAS-based)
+# Regression and Multivariate Analysis MSPA-410 (SAS-based)
 Develops the foundations of predictive modeling by: introducing the conceptual foundations of regression and multivariate analysis; developing statistical modeling as a process that includes exploratory data analysis, model identification, and model validation; and discussing the difference between the uses of statistical models for statistical inference versus predictive modeling. The high level topics covered in the course include: exploratory data analysis, statistical graphics, linear regression, automated variable selection, principal components analysis, exploratory factor analysis, and cluster analysis. In addition students will be introduced to the SAS statistical software, and its use in data management and statistical modeling.
 
-# Database Systems and Data Preparation MSPA420 (Python-based)
+# Database Systems and Data Preparation MSPA-420 (Python-based)
 This is a 'virtual Python Coding Lab'. Behind every analytics project is one or more analytical data sources. Introduces fundamentals of data management and data preparation. Students acquire hands-on experience with various data file formats, working with quantitative data and text, relational (e.g. SQL) database systems, and NoSQL database systems (e.g MongoDB). They access, organize, clean, prepare, transform, and explore data, using database shells, query and scripting languages, and analytical software. The data for assignments are stored in various formats, and are about things like customer transactions, air travel and accidents, and corporate email (Enron).
