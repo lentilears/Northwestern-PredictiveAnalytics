@@ -12,3 +12,6 @@ The Twitter API gets 200 tweet results. The tweepy package uses the Twitter API 
 
 #### Implementation and programming
 The MineTweets.py program creates and instantiates an object of class TwitterClient, which encodes several helper methods to first access the Twitter API (passes authentication credentials), perform a search query (e.g. ‘Robert Mueller’) passed to it by the main method, then parses the resulting 200 tweets collected by cleaning them of links and special characters (using the re regular expressions package), and then categorizes the sentiment using the textblob package into positive, negative and neutral. Some summary statistics of the relative percentage of positive, negative and neutral tweets are calculated and displayed, and finally five examples of positive and negative tweets are displayed in the screen ouput.
+
+#### Conclusions
+Automated data acquisition of 200 tweets related to the “Robert Mueller” was successfully obtained in the project, using the Twitter API. The extracted information from the Twitter feed was parsed, cleaned and classified for type of sentiment (e.g. either positive, negative or neutral). A summary of the relative proportions of sentiment for the search term, ‘Robert Mueller’ was, positive (34%), negative (10%) and neutral (55%).
