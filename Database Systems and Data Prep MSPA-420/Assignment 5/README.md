@@ -1,6 +1,6 @@
 ### Assignment 5: Overview
-Examination of air atravel passenger volume data and also incident and accident data for airlines and airports. 
-You have the use of your previously manipulated air transportation data. New data are from the U.S. Dept. of Transportation (USDOT) and the U.S. Federal Aviation Administration (FAA).
+Examination of air travel passenger volume data and also incident and accident data for airlines and airports. 
+The previously manipulated air transportation data is available to use. New data are from the U.S. Dept. of Transportation (USDOT) and the U.S. Federal Aviation Administration (FAA).
 
 The available data was used to do the following:
 
