@@ -1,0 +1,4 @@
+### Overview: Web Scraping to Collect Data (Python Scrapy package)
+Extract website information from the Chicago-based Divvy Bike Share Program, not just from the main landing page for the site, describing aspects of the rideshare program, but also from the data sources that are made available by Divvy for third parties for data analytics purposes.
+
+The strategy used for this exercise was to use a Python program (using the Scrapy package) designed to crawl and scrape data from the Divvy Bikeshare web-site (https://www.divvybikes.com/). Specifically, using the main landing page, a web spider would be used to obtain text and other website information from the main pages and link to other internal referenced pages and output the data in JSON file format (Javascript Object Notation). In addition, the URLs for the data sources, comprising rider usage statistics and ride station location, were identified.
