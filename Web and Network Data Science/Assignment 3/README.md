@@ -10,8 +10,8 @@ Main program: Resides within the ‘BikeshareData’ project folder, Main.xaml (
 
 #### Output folders and files:
 BikeshareData/
-  /Main.xaml: UiPath main program name to crawl Divvy Bike data share site
-  /project.json
+  --> Main.xaml: UiPath main program name to crawl Divvy Bike data share site
+  --> project.json
 
 #### Conclusions
 Ride share archive files (zip files) from the Chicago-based Divvy Bike Share Program describing rider and bike station usage data files were successfully downloaded to my PC Desktop, using a UiPath RPA robot designed to navigate using a Chrome browser to the data portal and download data directories.
